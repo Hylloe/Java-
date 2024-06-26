@@ -14,4 +14,5 @@ Calculator：计算器类，整合界面和计算逻辑。
 图形化界面和用户交互设计
 
 
+效果展示：
 ![屏幕截图 2024-06-26 185439](https://github.com/Hylloe/Java-/assets/124882910/f94ca678-6594-41e0-a3b3-21610bc1bcab)
